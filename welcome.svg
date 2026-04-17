@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.91 91.37">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-size: 7.83px;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #f3e8de;
+      }
+
+      .cls-2 {
+        font-family: FONTSPRINGDEMO-GuauBoldRegular, 'FONTSPRING DEMO - Guau Bold';
+        font-size: 41.3px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(24.77 37.64)"><tspan x="0" y="0">ok</tspan></text>
+    <text class="cls-2" transform="translate(.95 80.43)"><tspan x="0" y="0">sa</tspan></text>
+    <text class="cls-2" transform="translate(53.01 67.08)"><tspan x="0" y="0">na</tspan></text>
+    <text class="cls-1" transform="translate(56.74 75.86)"><tspan x="0" y="0">t</tspan><tspan class="cls-3" x="3.24" y="0">r</tspan><tspan x="6.09" y="0">ainer</tspan></text>
+  </g>
+</svg>
